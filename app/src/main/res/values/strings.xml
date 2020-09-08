@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">level2-example</string>
+    <string name="et_reminder">reminder</string>
+    <string name="btn_add_reminder">btn add remidnder</string>
 </resources>
